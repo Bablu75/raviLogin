@@ -15,4 +15,4 @@ nf vsdn vnsndbvs
 vsdnv sdns 
 csbnc asc nbasbc
 csanc nsa
-nsac asnc
+nsac asn
