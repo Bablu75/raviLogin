@@ -15,5 +15,4 @@ nf vsdn vnsndbvs
 vsdnv sdns 
 csbnc asc nbasbc
 csanc nsa
-nsac asn
-nbjvjv mnkjhk
+nsac asnc
